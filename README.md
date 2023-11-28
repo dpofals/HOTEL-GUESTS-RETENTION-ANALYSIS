@@ -1,11 +1,13 @@
 # HOTEL-GUESTS-RETENTION-ANALYSIS
-A diagnostic analysis of an hotel's booking data using Python . 
 
-The hotel has the goal of serving their customers optimally, to ensure this and enhance guests satisfaction, they are concerned with understanding possible factors affecting:
+  This repository is a diagnostic analysis of an hotel's booking data using Python . 
 
-1. cancellations, 
-2. short stays, and 
-3. low customer return rates.
+It includes :
+# A Jupyter Notebook file ("HOTEL CUSTOMER RETENTION ANALYSIS") documenting the entire analysis project. 
+
+# Another Jupyter Notebook file ("HOTEL BOOKING DATA CLEANING") detailing the data cleaning process.
+
+# A Power BI dashboard report, visualizing the analysis.
 
 
 + Link to interact with the power bi dashboard
