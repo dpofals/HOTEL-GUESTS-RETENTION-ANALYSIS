@@ -3,11 +3,11 @@
   This repository is a diagnostic analysis of an hotel's booking data using Python . 
 
 It includes :
-# A Jupyter Notebook file ("HOTEL CUSTOMER RETENTION ANALYSIS") documenting the entire analysis project. 
+A Jupyter Notebook file ("HOTEL CUSTOMER RETENTION ANALYSIS") documenting the entire analysis project. 
 
-# Another Jupyter Notebook file ("HOTEL BOOKING DATA CLEANING") detailing the data cleaning process.
+Another Jupyter Notebook file ("HOTEL BOOKING DATA CLEANING") detailing the data cleaning process.
 
-# A Power BI dashboard report, visualizing the analysis.
+A Power BI dashboard report, visualizing the analysis.
 
 
 + Link to interact with the power bi dashboard
